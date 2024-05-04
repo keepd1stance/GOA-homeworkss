@@ -37,8 +37,40 @@ left(120)
 forward(200)
 end_fill()
 
+penup()
+goto(15, 130)
+pendown()
+
+left(210)
+forward(50)
+right(90)
+forward(50)
+right(90)
+forward(50)
+right(90)
+forward(50)
+
+penup()
+goto(185, 130)
+pendown()
+
+forward(50)
+right(90)
+forward(50)
+right(90)
+forward(50)
+right(90)
+forward(50)
+
+
+
+
+
+
 
 exitonclick()
+
+
 
 
 
